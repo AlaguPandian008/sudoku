@@ -14,7 +14,7 @@ public class Main {
         solver = new SudokuSolver();
     }
 
-    static void main(String[] args) {
+    public static void main(String[] args) {
         new Main().start();
     }
 
